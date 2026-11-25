@@ -218,3 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 **/charts/*.html
+
+/S6_14.11.2026/data/processed/
+/S6_14.11.2026/reports/figures/
+/S6_14.11.2026/reports/report.md
